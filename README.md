@@ -1,16 +1,26 @@
 ## Hi there 👋
 
-<!--
-**t-fb/t-fb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a full-stack developer with experience using **JavaScript/TypeScript, SQL, Python, and AWS**.
 
-Here are some ideas to get you started:
+Recently, I co-created **Burrow** — a data ingestion pipeline that streamlines the development of Retrieval-Augmented Generation (RAG) applications.  
+🔗 https://burrow-io.github.io/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I also built **ShutterBot**, a RAG chatbot using **OpenAI, Python, FastAPI + React** to answer questions about camera manuals.
+
+In my free time, I enjoy exercising outdoors, spending time in nature, or playing video games such as **Overwatch** and **Stardew Valley**.
+
+
+### 🛠️ Technologies & Tools
+
+| Category | Technologies |
+|---------|--------------|
+| **AI & LLM Systems** | OpenAI , RAG, pgvector, embeddings, natural-language querying, Pinecone, ChromaDB|
+| **Languages** | JavaScript, TypeScript, Python, SQL |
+| **Web & Application** | React, Node.js, Express, Vite, HTML, CSS |
+| **APIs & Integration** | REST APIs |
+| **Data Stores** | PostgreSQL, MongoDB, vector databases |
+| **Infrastructure & Cloud** | AWS, Terraform, ECS/Fargate, Lamda, S3, Bedrock, SQS, Eventbridge |
+| **Containers & DevOps** | Docker, Docker Compose, Git, GitHub |
+
+---
+
