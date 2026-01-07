@@ -23,3 +23,6 @@ In my free time, I enjoy exercising outdoors, spending time in nature, or playin
 
 ---
 
+Let's chat!
+
+**[LinkedIn](https://www.linkedin.com/in/trixy-f/)**,
