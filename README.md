@@ -2,10 +2,9 @@
 
 I’m a full-stack developer with experience using **JavaScript/TypeScript, SQL, Python, and AWS**.
 
-Recently, I co-created **Burrow** — a data ingestion pipeline that streamlines the development of Retrieval-Augmented Generation (RAG) applications.  
-🔗 https://burrow-io.github.io/
+Recently, I co-created **[Burrow](https://burrow-io.github.io/)**, a data ingestion pipeline that streamlines the development of Retrieval-Augmented Generation (RAG) applications.
 
-I also built **ShutterBot**, a RAG chatbot using **OpenAI, Python, FastAPI + React** to answer questions about camera manuals.
+I also built **ShutterBot**, a RAG chatbot using **OpenAI, Python, FastAPI + React** to answer questions about camera manual.
 
 In my free time, I enjoy exercising outdoors, spending time in nature, or playing video games such as **Overwatch** and **Stardew Valley**.
 
