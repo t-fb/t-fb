@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey, I'm Trixy 👋
 
 I’m a full-stack developer with experience using **JavaScript/TypeScript, SQL, Python, and AWS**.
 
