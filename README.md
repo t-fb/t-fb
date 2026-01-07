@@ -6,8 +6,7 @@ Recently, I co-created **[Burrow](https://burrow-io.github.io/)**, a data ingest
 
 I also built **ShutterBot**, a RAG chatbot using **OpenAI, Python, FastAPI + React** to answer questions about your camera manual.
 
-In my free time, I enjoy exercising outdoors, spending time in nature, or playing video games such as **Overwatch** and **Stardew Valley**.
-
+In my free time, I enjoy exercising outdoors and playing video games such as Overwatch and Stardew Valley.
 
 ### 🛠️ Technologies & Tools
 
