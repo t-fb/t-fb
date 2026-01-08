@@ -23,3 +23,4 @@ In my free time, I enjoy exercising outdoors and playing video games such as Ove
 Let's chat!
 
 **[LinkedIn](https://www.linkedin.com/in/trixy-f/)**
+**[LinkedIn](tfb.fab@gmailcom)**
