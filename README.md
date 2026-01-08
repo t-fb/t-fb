@@ -14,7 +14,6 @@ In my free time, I enjoy exercising outdoors and playing video games such as Ove
 | **AI** | OpenAI , RAG, Vector Databases, AWS Bedrock|
 | **Backend** | Node.js, Express, Python, FastAPI, PostgreSQL, REST APIs |
 | **Frontend** | JavaScript/TypeScript, React, HTML, CSS |
-| **Data Stores** | PostgreSQL, MongoDB |
 | **Cloud** | AWS (ECS/Fargate, Lamda, S3, Bedrock, SQS, Eventbridge, DynamoDB, Aurora) |
 | **Other** | Docker, GitHub, Terraform |
 
