@@ -11,13 +11,12 @@ In my free time, I enjoy exercising outdoors and playing video games such as Ove
 
 | Category | Technologies |
 |---------|--------------|
-| **AI & LLM Systems** | OpenAI , RAG, Vector databases|
-| **Languages** | JavaScript, TypeScript, Python, SQL |
-| **Web & Application** | React, Node.js, Express, HTML, CSS |
-| **APIs & Integration** | REST APIs |
+| **AI** | OpenAI , RAG, Vector Databases, AWS Bedrock|
+| **Backend** | Node.js, Express, Python, FastAPI, PostgreSQL REST APIs |
+| **Frontend** | JavaScript/TypeScript, React, HTML, CSS |
 | **Data Stores** | PostgreSQL, MongoDB |
-| **Infrastructure & Cloud** | AWS, Terraform, ECS/Fargate, Lamda, S3, Bedrock, SQS, Eventbridge |
-| **Containers & DevOps** | Docker, GitHub |
+| **Infrastructure & Cloud** | AWS, ECS/Fargate, Lamda, S3, Bedrock, SQS, Eventbridge |
+| **Other** | Docker, GitHub, Terraform |
 
 ---
 
