@@ -1,8 +1,7 @@
 ## Hey, I'm Trixy 👋
 
-I’m a full-stack developer with experience using **JavaScript/TypeScript, SQL, Python, and AWS**.
-
-Recently, I co-created **[Burrow](https://burrow-io.github.io/)**, an open source data ingestion pipeline that streamlines the development of Retrieval-Augmented Generation (RAG) applications.
+I’m a full-stack software developer with several years of experience in the JavaScript ecosystem. I also have
+hands-on experience developing applications in the AI space . Recently, I co-created Burrow (burrow-io.github.io ), an open source data ingestion pipeline that streamlines the development of RAG (Retrieval-Augmented Generation) applications.
 
 I also built **ShutterBot**, a RAG chatbot using **OpenAI, Python, FastAPI + React** to answer questions about your camera manual.
 
@@ -12,7 +11,7 @@ In my free time, I enjoy exercising outdoors and playing video games such as Ove
 
 | Category | Technologies |
 |---------|--------------|
-| **AI & LLM Systems** | OpenAI , RAG, Vector databases (pgvector, ChromaDB, Pinecone)|
+| **AI & LLM Systems** | OpenAI , RAG, Vector databases|
 | **Languages** | JavaScript, TypeScript, Python, SQL |
 | **Web & Application** | React, Node.js, Express, HTML, CSS |
 | **APIs & Integration** | REST APIs |
