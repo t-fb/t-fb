@@ -3,7 +3,7 @@
 I’m a full-stack software developer based in Vancouver, BC with several years of experience in the JavaScript ecosystem. I also have
 hands-on experience developing applications in the AI space . Recently, I co-created [Burrow](https://burrow-io.github.io), an open source data ingestion pipeline that streamlines the development of RAG (Retrieval-Augmented Generation) applications.
 
-I also built **ShutterBot** 📷, a RAG chatbot using **OpenAI, Python, FastAPI + React** that answers questions about your camera manual (inspired after struggling to learn about my new camera while having to dig though dense documentation).
+I also built **ShutterBot** 📷, a RAG chatbot that answers your questions about your camera manual (inspired after struggling to learn about my new camera while having to dig though dense documentation).
 
 In my free time, I enjoy exercising outdoors and playing video games such as Overwatch and Stardew Valley 👩‍🌾.
 
