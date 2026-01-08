@@ -1,4 +1,4 @@
-## Hey, I'm Trixy 👋
+## Hey, I'm Trixy 👋 😄
 
 I’m a full-stack software developer based in Vancouver, BC with several years of experience in the JavaScript ecosystem. I also have
 hands-on experience developing applications in the AI space . Recently, I co-created [Burrow](https://burrow-io.github.io), an open source data ingestion pipeline that streamlines the development of RAG (Retrieval-Augmented Generation) applications.
