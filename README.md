@@ -1,7 +1,7 @@
 ## Hey, I'm Trixy 👋 😄
 
-I’m a full-stack software developer based in Vancouver, BC with several years of experience in the JavaScript ecosystem. I also have
-hands-on experience developing applications in the AI space . Recently, I co-created [Burrow](https://burrow-io.github.io), an open source data ingestion pipeline that streamlines the development of RAG (Retrieval-Augmented Generation) applications.
+I’m a full-stack developer with several years of experience in the JavaScript ecosystem, with additional experience
+integrating AI technologies into web applications. Recently, I co-created [Burrow](https://burrow-io.github.io), an open source data ingestion pipeline for RAG (Retrieval-Augmented Generation) systems.
 
 I also built **ShutterBot** 📷, a RAG chatbot that answers your questions about your camera manual (inspired after struggling to learn how to use my new camera by having to dig through its dense documentation).
 
@@ -11,7 +11,7 @@ In my free time, I enjoy exercising outdoors and playing video games such as Ove
 
 | Category | Technologies |
 |---------|--------------|
-| **AI** | OpenAI , RAG, Vector Databases, AWS Bedrock|
+| **AI** | OpenAI , RAG, Vector Databases, AWS Bedrock, LLM Prompt engineering|
 | **Backend** | Node.js, Express, Python, FastAPI, PostgreSQL, REST APIs |
 | **Frontend** | JavaScript/TypeScript, React, HTML, CSS |
 | **Cloud** | AWS (ECS/Fargate, Lamda, S3, Bedrock, SQS, Eventbridge, DynamoDB, Aurora) |
